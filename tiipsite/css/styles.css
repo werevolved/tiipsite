@@ -1,0 +1,128 @@
+body, html {
+	height: 100%;
+	margin: 0;
+	background-color: #41035E;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+
+	background-color: #DBE106;
+}
+
+.tiipLogo {
+
+	padding-top: 30px;
+	height: 400px;
+	background-color: #FFF;
+	border: 5px solid #E3BF06;
+	margin-bottom: 40px;
+	text-align: center;
+	font-size: 80px;
+	
+
+}
+
+.address {
+
+	font-size: 30px;
+}
+
+.ourProds {
+
+
+}
+
+.aboutTiip {
+
+	height: 350px;
+	background-color: #FFF;
+	border: 5px solid #E3BF06;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 10px;
+}
+
+
+.headliner {
+
+	color: #FFF;
+	font-size: 50px;
+	text-align: center;
+}
+
+
+.featuredProds, .saleProds {
+
+	padding: 80px;
+	margin-top: 0px;	
+	height: 200px;
+	/*display: block;	*/
+
+}
+
+.leftFeature, .rightFeature {
+
+	background-color: #FFF;
+	width: 350px;
+	height: 300px;
+	text-align: center;
+	border: 5px solid #E3BF06;
+
+}
+.leftSale, .rightSale {
+
+	background-color: #FFF;
+	width: 350px;
+	height: 300px;
+	text-align: center;
+	border: 5px solid #E3BF06;
+	}
+
+
+
+.salePic {
+	margin-top: 40px;
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 200px;
+}
+
+.footer {
+
+	margin-top: 80px;
+	background-color: #5232AC;
+	height: 80px;
+	width: 100%;
+}
+
+.mailUs {
+
+	width: 150px;
+}
+
+.orderForm {
+
+	/*height: 350px;*/
+	background-color: #41035E;
+	border: 5px solid #E3BF06;
+	text-align: center;
+	font-size: 24px;
+	padding-top: 10px;
+	margin-top: 50px;
+}
+
+#contactUs {
+
+	margin-left: 100px;
+	text-align: center;
+	background-color: #41035E;
+	color: #666;
+
+}
+
+#formSubmit {
+
+	/*background-color: #FF4F17;*/
+}
